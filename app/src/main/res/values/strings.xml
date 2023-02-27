@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ballon Splash</string>
+    <string name="balloon_image">balloon image</string>
+    <string name="hello_michael">Hello Michael!</string>
+</resources>
